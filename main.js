@@ -1,5 +1,5 @@
-/* ============================================================
-   Portafolio · Israel Morán Rivera
+﻿/* ============================================================
+   Portafolio · Israel Moran Rivera
    Scroll reveals + smooth-scroll mejorado.
    Vanilla JS, sin dependencias.
 ============================================================ */
