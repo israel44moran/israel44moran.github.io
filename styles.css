@@ -630,14 +630,17 @@ ul { list-style: none; }
   transform: translateY(0);
 }
 .grid-projects .card.reveal { transition-delay: 0s; }
-.grid-projects .card.reveal.is-visible:nth-child(1) { transition-delay: 0.00s; }
-.grid-projects .card.reveal.is-visible:nth-child(2) { transition-delay: 0.06s; }
-.grid-projects .card.reveal.is-visible:nth-child(3) { transition-delay: 0.12s; }
-.grid-projects .card.reveal.is-visible:nth-child(4) { transition-delay: 0.18s; }
-.grid-projects .card.reveal.is-visible:nth-child(5) { transition-delay: 0.24s; }
-.grid-projects .card.reveal.is-visible:nth-child(6) { transition-delay: 0.30s; }
-.grid-projects .card.reveal.is-visible:nth-child(7) { transition-delay: 0.36s; }
-.grid-projects .card.reveal.is-visible:nth-child(8) { transition-delay: 0.42s; }
+.grid-projects .card.reveal.is-visible:nth-child(1)  { transition-delay: 0.00s; }
+.grid-projects .card.reveal.is-visible:nth-child(2)  { transition-delay: 0.06s; }
+.grid-projects .card.reveal.is-visible:nth-child(3)  { transition-delay: 0.12s; }
+.grid-projects .card.reveal.is-visible:nth-child(4)  { transition-delay: 0.18s; }
+.grid-projects .card.reveal.is-visible:nth-child(5)  { transition-delay: 0.24s; }
+.grid-projects .card.reveal.is-visible:nth-child(6)  { transition-delay: 0.30s; }
+.grid-projects .card.reveal.is-visible:nth-child(7)  { transition-delay: 0.36s; }
+.grid-projects .card.reveal.is-visible:nth-child(8)  { transition-delay: 0.42s; }
+.grid-projects .card.reveal.is-visible:nth-child(9)  { transition-delay: 0.48s; }
+.grid-projects .card.reveal.is-visible:nth-child(10) { transition-delay: 0.54s; }
+.grid-projects .card.reveal.is-visible:nth-child(11) { transition-delay: 0.60s; }
 
 
 /* ============================================================
